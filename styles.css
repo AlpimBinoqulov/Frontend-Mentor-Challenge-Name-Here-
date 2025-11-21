@@ -1,0 +1,137 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 235, 235);
+    
+    
+}
+.container{
+    width: 1440px;
+    height: 1024px;
+    display: flex;
+    background-color: rgb(238, 235, 235);
+    justify-content: center;
+    align-items: center;
+     
+}
+.box1-box2{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+
+}
+.box1{
+    display: flex;
+    margin: 0;
+
+}
+.box2{
+    display: flex;
+    margin: 0;
+}
+.Daniel{
+    margin: 0.5em;
+    
+    width: 35em;
+    height: 20em;
+    background-image: url(bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 22em 0.2em;
+    background-color: hsl(263, 52%, 56%);
+    border-radius: 2em;
+    
+}
+.img{
+    display: flex;
+}
+.img1{
+    display: inline-block;
+    border-radius: 50%;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+.name1{
+    margin-top: 2.9em;
+    margin-left: 0.8em;
+    display: inline-block;
+    color: white;
+    font-size: 0.8em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.txt{
+    width: 30em;
+    height: auto;
+    margin-left: 2em;
+    color: white;
+
+}
+.Jonathan{
+    
+    margin: 0.5em;
+    width: 15em;
+    height: 20em;
+    background-color: rgb(88, 88, 88);
+    border-radius: 2em;
+   
+}
+.b{
+    font-size: 1.18em;
+}
+.txt1{
+    width: 11.5em;
+    height: auto;
+    margin-left: 2em;
+    color: white;
+}
+.Jeanette{
+    margin: 0.5em;
+    background-color: white;
+    color: gray;
+}
+.Patrick{
+    margin: 0.5em;
+    background-color: rgb(44, 44, 44);
+    width: 35em;
+    height: 20em;
+   
+     border-radius: 2em;
+}
+.Kira{
+    width: 15em;
+    height: 40em;
+    background-color: white;
+    color: gray;
+    border-radius: 2em;
+    margin: 0.5em;
+}
+.content{
+    display: flex;
+}
+.image-kira{
+    border-radius: 50%;
+    margin-top: 2em;
+    margin-left: 2em;
+
+}
+.name-kira{
+    display: inline-block;
+    color: gray;
+    margin-top: 2.5em;
+    margin-left: 1.5em;
+}
+.txt-kira{
+    width: 11em;
+    height: auto;
+    margin-left: 2em
+}
+.title-kira{
+    margin-left: 0;
+    font-size: 1.18em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Kira-txt{
+    font-size: 0.85em;
+}
+
+
